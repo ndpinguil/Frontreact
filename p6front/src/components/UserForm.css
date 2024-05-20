@@ -1,0 +1,30 @@
+.user-form {
+    background-color: #ffffff;
+    border: 1px solid #dcdcdc;
+    border-radius: 8px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .user-form input,
+  .user-form button {
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    padding: 10px;
+    border: 1px solid #dcdcdc;
+    border-radius: 4px;
+  }
+  
+  .user-form button {
+    background-color: #2ecc71;
+    color: white;
+    cursor: pointer;
+    border: none;
+  }
+  
+  .user-form button:hover {
+    background-color: #27ae60;
+  }
+  
